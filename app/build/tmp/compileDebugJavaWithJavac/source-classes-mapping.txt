@@ -1,0 +1,140 @@
+com/mianasad/chatsapp/databinding/ActivityOTPBinding.java
+ com.mianasad.chatsapp.databinding.ActivityOTPBinding
+com/mianasad/chatsapp/databinding/ActivityChatBinding.java
+ com.mianasad.chatsapp.databinding.ActivityChatBinding
+com/mianasad/chatsapp/Adapters/UsersAdapter.java
+ com.mianasad.chatsapp.Adapters.UsersAdapter
+ com.mianasad.chatsapp.Adapters.UsersAdapter$1
+ com.mianasad.chatsapp.Adapters.UsersAdapter$2
+ com.mianasad.chatsapp.Adapters.UsersAdapter$UsersViewHolder
+com/mianasad/chatsapp/Activities/GroupChatActivity.java
+ com.mianasad.chatsapp.Activities.GroupChatActivity
+ com.mianasad.chatsapp.Activities.GroupChatActivity$1
+ com.mianasad.chatsapp.Activities.GroupChatActivity$2
+ com.mianasad.chatsapp.Activities.GroupChatActivity$3
+ com.mianasad.chatsapp.Activities.GroupChatActivity$4
+ com.mianasad.chatsapp.Activities.GroupChatActivity$4$1
+com/mianasad/chatsapp/Activities/MainActivity.java
+ com.mianasad.chatsapp.Activities.MainActivity
+ com.mianasad.chatsapp.Activities.MainActivity$1
+ com.mianasad.chatsapp.Activities.MainActivity$2
+ com.mianasad.chatsapp.Activities.MainActivity$3
+ com.mianasad.chatsapp.Activities.MainActivity$4
+ com.mianasad.chatsapp.Activities.MainActivity$5
+ com.mianasad.chatsapp.Activities.MainActivity$6
+ com.mianasad.chatsapp.Activities.MainActivity$7
+ com.mianasad.chatsapp.Activities.MainActivity$7$1
+com/mianasad/chatsapp/MyFirstbaseService.java
+ com.mianasad.chatsapp.MyFirstbaseService
+com/mianasad/chatsapp/Models/Message.java
+ com.mianasad.chatsapp.Models.Message
+com/mianasad/chatsapp/databinding/ItemSentGroupBinding.java
+ com.mianasad.chatsapp.databinding.ItemSentGroupBinding
+com/mianasad/chatsapp/databinding/ItemReceiveBinding.java
+ com.mianasad.chatsapp.databinding.ItemReceiveBinding
+com/mianasad/chatsapp/databinding/DemoStatusBinding.java
+ com.mianasad.chatsapp.databinding.DemoStatusBinding
+com/mianasad/chatsapp/databinding/DemoLayoutBinding.java
+ com.mianasad.chatsapp.databinding.DemoLayoutBinding
+com/mianasad/chatsapp/databinding/ActivitySetupProfileBinding.java
+ com.mianasad.chatsapp.databinding.ActivitySetupProfileBinding
+com/mianasad/chatsapp/Activities/PhoneNumberActivity.java
+ com.mianasad.chatsapp.Activities.PhoneNumberActivity
+ com.mianasad.chatsapp.Activities.PhoneNumberActivity$1
+com/mianasad/chatsapp/databinding/ItemSentBinding.java
+ com.mianasad.chatsapp.databinding.ItemSentBinding
+com/mianasad/chatsapp/Activities/OTPActivity.java
+ com.mianasad.chatsapp.Activities.OTPActivity
+ com.mianasad.chatsapp.Activities.OTPActivity$1
+ com.mianasad.chatsapp.Activities.OTPActivity$2
+ com.mianasad.chatsapp.Activities.OTPActivity$2$1
+com/mianasad/chatsapp/databinding/DeleteDialogBinding.java
+ com.mianasad.chatsapp.databinding.DeleteDialogBinding
+com/mianasad/chatsapp/BuildConfig.java
+ com.mianasad.chatsapp.BuildConfig
+com/mianasad/chatsapp/Adapters/GroupMessagesAdapter.java
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$1
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$2
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$3
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$4
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$4$1
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$4$2
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$4$3
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$5
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$6
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$7
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$8
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$8$1
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$8$2
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$8$3
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$ReceiverViewHolder
+ com.mianasad.chatsapp.Adapters.GroupMessagesAdapter$SentViewHolder
+com/mianasad/chatsapp/Models/Status.java
+ com.mianasad.chatsapp.Models.Status
+com/mianasad/chatsapp/databinding/ActivityPhoneNumberBinding.java
+ com.mianasad.chatsapp.databinding.ActivityPhoneNumberBinding
+com/mianasad/chatsapp/databinding/ActivityGroupChatBinding.java
+ com.mianasad.chatsapp.databinding.ActivityGroupChatBinding
+com/mianasad/chatsapp/Models/User.java
+ com.mianasad.chatsapp.Models.User
+com/mianasad/chatsapp/Activities/SetupProfileActivity.java
+ com.mianasad.chatsapp.Activities.SetupProfileActivity
+ com.mianasad.chatsapp.Activities.SetupProfileActivity$1
+ com.mianasad.chatsapp.Activities.SetupProfileActivity$2
+ com.mianasad.chatsapp.Activities.SetupProfileActivity$2$1
+ com.mianasad.chatsapp.Activities.SetupProfileActivity$2$1$1
+ com.mianasad.chatsapp.Activities.SetupProfileActivity$2$1$1$1
+ com.mianasad.chatsapp.Activities.SetupProfileActivity$2$2
+ com.mianasad.chatsapp.Activities.SetupProfileActivity$3
+ com.mianasad.chatsapp.Activities.SetupProfileActivity$3$1
+ com.mianasad.chatsapp.Activities.SetupProfileActivity$3$1$1
+com/mianasad/chatsapp/databinding/ActivityMainBinding.java
+ com.mianasad.chatsapp.databinding.ActivityMainBinding
+com/mianasad/chatsapp/databinding/ItemReceiveGroupBinding.java
+ com.mianasad.chatsapp.databinding.ItemReceiveGroupBinding
+com/mianasad/chatsapp/Adapters/TopStatusAdapter.java
+ com.mianasad.chatsapp.Adapters.TopStatusAdapter
+ com.mianasad.chatsapp.Adapters.TopStatusAdapter$1
+ com.mianasad.chatsapp.Adapters.TopStatusAdapter$1$1
+ com.mianasad.chatsapp.Adapters.TopStatusAdapter$TopStatusViewHolder
+com/mianasad/chatsapp/databinding/ItemStatusBinding.java
+ com.mianasad.chatsapp.databinding.ItemStatusBinding
+com/mianasad/chatsapp/Models/UserStatus.java
+ com.mianasad.chatsapp.Models.UserStatus
+com/mianasad/chatsapp/databinding/RowConversationBinding.java
+ com.mianasad.chatsapp.databinding.RowConversationBinding
+com/mianasad/chatsapp/Adapters/MessagesAdapter.java
+ com.mianasad.chatsapp.Adapters.MessagesAdapter
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$1
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$2
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$3
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$3$1
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$3$2
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$3$3
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$4
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$5
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$6
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$6$1
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$6$2
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$6$3
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$ReceiverViewHolder
+ com.mianasad.chatsapp.Adapters.MessagesAdapter$SentViewHolder
+com/mianasad/chatsapp/Activities/ChatActivity.java
+ com.mianasad.chatsapp.Activities.ChatActivity
+ com.mianasad.chatsapp.Activities.ChatActivity$1
+ com.mianasad.chatsapp.Activities.ChatActivity$10
+ com.mianasad.chatsapp.Activities.ChatActivity$10$1
+ com.mianasad.chatsapp.Activities.ChatActivity$10$1$1
+ com.mianasad.chatsapp.Activities.ChatActivity$10$1$1$1
+ com.mianasad.chatsapp.Activities.ChatActivity$2
+ com.mianasad.chatsapp.Activities.ChatActivity$3
+ com.mianasad.chatsapp.Activities.ChatActivity$4
+ com.mianasad.chatsapp.Activities.ChatActivity$4$1
+ com.mianasad.chatsapp.Activities.ChatActivity$4$1$1
+ com.mianasad.chatsapp.Activities.ChatActivity$5
+ com.mianasad.chatsapp.Activities.ChatActivity$6
+ com.mianasad.chatsapp.Activities.ChatActivity$6$1
+ com.mianasad.chatsapp.Activities.ChatActivity$7
+ com.mianasad.chatsapp.Activities.ChatActivity$8
+ com.mianasad.chatsapp.Activities.ChatActivity$9

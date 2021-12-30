@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1057897833164",
+    "project_id": "chatappfinal-9d7c8",
+    "storage_bucket": "chatappfinal-9d7c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057897833164:android:549bd5f8e855bcfe435869",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057897833164-gghjvuhdqsuh7k0c40qt4abuar5opqk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mianasad.chatsapp",
+            "certificate_hash": "99fecc9838a0f45b4f09c773eff92654c19a86c1"
+          }
+        },
+        {
+          "client_id": "1057897833164-q8d1ststrrf45rjqucgel99cpfqvnqb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiQ4_c8iZ-ukvHWA4P2HTx2YE_HEvFgtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057897833164-q8d1ststrrf45rjqucgel99cpfqvnqb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

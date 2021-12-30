@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_fb_wow.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_fb_wow.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_row_conversation.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/row_conversation.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_activity_phone_number.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/activity_phone_number.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_demo_status.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/demo_status.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ot_verify.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ot_verify.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_activity_group_chat.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/activity_group_chat.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_fb_laugh.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_fb_laugh.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_video.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_video.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_item_receive_group.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/item_receive_group.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_delete_dialog.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/delete_dialog.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_activity_o_t_p.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/activity_o_t_p.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_circle_bg.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_fb_love.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_fb_love.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/font_roboto_light.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/font/roboto_light.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable-v24_receive_drawable.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable-v24/receive_drawable.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_status.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_status.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_avatar.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/avatar.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_otp_verify.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/otp_verify.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_camera.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_item_receive.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/item_receive.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_activity_chat.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_fb_sad.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_fb_sad.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_call.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_call.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_activity_setup_profile.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/activity_setup_profile.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_bg.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/bg.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_item_sent_group.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/item_sent_group.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_chats.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_chats.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_fb_like.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_fb_like.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/menu_topmenu.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/menu/topmenu.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/menu_chat_menu.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/menu/chat_menu.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_search.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_item_status.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/item_status.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_attachment.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_attachment.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_mobile_auth.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/mobile_auth.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_demo_layout.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/demo_layout.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_placeholder.jpg.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/placeholder.jpg"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_left_arrow.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_left_arrow.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_textbox_outline.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/textbox_outline.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_send.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_send.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_sent_drawable.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/sent_drawable.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/layout_item_sent.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/layout/item_sent.xml"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_ic_fb_angry.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/ic_fb_angry.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/build/intermediates/res/merged/debug/drawable_circle_green.xml.flat",
+        "source": "/Users/duongphi/Documents/Mobile/ChatsApp-master/app/src/main/res/drawable/circle_green.xml"
+    }
+]
